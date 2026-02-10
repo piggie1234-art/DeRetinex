@@ -71,5 +71,5 @@ python train.py
 - 设置 `model_choose = 4` 进行细节增强与融合训练。
 
 ## 算法流程图
-
+![image](calpic.png)
 
