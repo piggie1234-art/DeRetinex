@@ -15,7 +15,7 @@ DeRetinex: 基于 Retinex 分解的水下图像增强
 
 ## 环境要求
 
-- Python 3.x
+- Python 3.11
 - PyTorch
 - torchvision
 - OpenCV
