@@ -73,3 +73,6 @@ python train.py
 ## 算法流程图
 ![image](calpic.png)
 
+## 结果对比
+![rusult](result.png)
+
